@@ -1,8 +1,8 @@
 # Це ж було вже
 
-> 265 культурних карток для AI-агентів, які щоразу бачать усе вперше.
+> 279 культурних карток для AI-агентів, які щоразу бачать усе вперше.
 
-[![Dataset](https://img.shields.io/badge/dataset-265%20entries-0057B8)](data/ukrainian-millennial-cultural-profile-1995-2015.md)
+[![Dataset](https://img.shields.io/badge/dataset-279%20entries-0057B8)](data/ukrainian-millennial-cultural-profile-1995-2015.md)
 [![Era](https://img.shields.io/badge/era-1995–2015-FFD700)](data/ukrainian-millennial-cultural-profile-1995-2015.md)
 [![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey.svg)](LICENSE)
 
@@ -38,6 +38,7 @@
 - 59 побутових риторичних формул із прихованим наміром;
 - субкультури, форуми, ВКонтакті та мова раннього інтернету;
 - музичні паролі 1990-х і нульових;
+- політичні меми від «проффесора» до людей, яким доступний завтрашній день;
 - фрази з українських перекладів: від «Це Валєра» до «А вранці я спечу вафельки»;
 - правила для агента: що означає сигнал, як реагувати й де буквальна відповідь буде комічно неправильною.
 
