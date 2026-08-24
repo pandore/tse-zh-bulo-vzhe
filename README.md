@@ -1,6 +1,6 @@
-# Це ж було вже | Датасет українських мемів для AI-агентів.
+# Це ж було вже
 
-> Валєра лишається у «Тачках». Холодильник стоїть із зачиненими дверцятами.
+> Датасет українських мемів для AI-агентів.
 
 [![Dataset](https://img.shields.io/badge/dataset-279%20entries-0057B8)](data/ukrainian-millennial-cultural-profile-1995-2015.md)
 [![Release](https://img.shields.io/github/v/release/pandore/tse-zh-bulo-vzhe)](https://github.com/pandore/tse-zh-bulo-vzhe/releases)
