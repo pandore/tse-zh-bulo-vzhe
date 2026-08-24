@@ -65,7 +65,7 @@ https://github.com/pandore/tse-zh-bulo-vzhe
 
 ### 2. Додати файл до проєкту або чату
 
-[Завантажте датасет `v0.4.0`](https://raw.githubusercontent.com/pandore/tse-zh-bulo-vzhe/v0.4.0/data/ukrainian-millennial-cultural-profile-1995-2015.md) і додайте його до знань вашого ChatGPT Project, Claude Project, Gemini Gem або іншого агента.
+[Завантажте датасет `v0.5.0`](https://raw.githubusercontent.com/pandore/tse-zh-bulo-vzhe/v0.5.0/data/ukrainian-millennial-cultural-profile-1995-2015.md) і додайте його до знань вашого ChatGPT Project, Claude Project, Gemini Gem або іншого агента.
 
 Після цього достатньо попросити: «Використовуй цей файл, коли бачиш український жарт, цитату або ностальгічну відсилку».
 
@@ -102,7 +102,7 @@ https://github.com/pandore/tse-zh-bulo-vzhe
 
 ## Версії
 
-Поточна версія: [`v0.4.0`](https://github.com/pandore/tse-zh-bulo-vzhe/releases/tag/v0.4.0). Кожне змістове оновлення отримує новий номер; попередні випуски доступні в [GitHub Releases](https://github.com/pandore/tse-zh-bulo-vzhe/releases).
+Поточна версія: [`v0.5.0`](https://github.com/pandore/tse-zh-bulo-vzhe/releases/tag/v0.5.0). Кожне змістове оновлення отримує новий номер; попередні випуски доступні в [GitHub Releases](https://github.com/pandore/tse-zh-bulo-vzhe/releases).
 
 ## Шось забули? Та канєшно
 
